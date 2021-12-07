@@ -11,7 +11,7 @@
  * x1, y1, x2, y2
  * Hold split co-ordinates as integers.
  * 
- * base, height, are, distance
+ * base, height, area, distance
  * Hold result of math equations used in final output.
  * 
  * firstPairScnr, secondPairScnr
